@@ -13,7 +13,7 @@ import { AppRoutingModule } from './/app-routing.module';
 import { DashboardComponent } from './dashboard/dashboard.component';
 
 @NgModule({
-  declarations: [
+  declarations: [ //Decleration of components takes place here!
     AppComponent,
     HeroesComponent,
     HeroesDetailComponent,

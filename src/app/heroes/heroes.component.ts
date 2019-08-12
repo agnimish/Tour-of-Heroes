@@ -4,8 +4,8 @@ import { HeroService } from '../hero.service';
 
 @Component({
   selector: 'app-heroes', //the component's CSS element selector that 
-  // matches the name of the HTML element that identifies this component within a parent component's 
-  // template.
+  // matches the name of the HTML element that "identifies this component within a parent component's 
+  // template".
   templateUrl: './heroes.component.html',
   styleUrls: ['./heroes.component.css']
 })
